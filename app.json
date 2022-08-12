@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "plugins": [
+      "./withSimulatorExcludedArchitectures.js"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.briannag31.quizapp3"
+    }
+  }
+}
